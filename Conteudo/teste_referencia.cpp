@@ -33,7 +33,7 @@ int aleatorio(){
 	
 	int random = 1 + (rand() % 6); 
 	
-	return(5);
+	return(random);
 }
 
 void sobreposicao(int vetortab[], int vetor_jogador[], int y, int jogador){ 
